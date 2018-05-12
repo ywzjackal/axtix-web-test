@@ -1,0 +1,8 @@
+[package]
+name = "actix-web-test"
+version = "0.1.0"
+authors = ["ywzjackal <ywzjackal@163.com>"]
+
+[dependencies]
+actix = "0.5"
+actix-web = "0.6"
