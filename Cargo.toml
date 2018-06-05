@@ -5,4 +5,5 @@ authors = ["ywzjackal <ywzjackal@163.com>"]
 
 [dependencies]
 actix = "0.5"
-actix-web = "0.6"
+actix-web = {git="https://github.com/actix/actix-web.git"}
+futures = "0.1"
